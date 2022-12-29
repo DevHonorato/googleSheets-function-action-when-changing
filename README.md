@@ -25,7 +25,7 @@ Quando um usuário faz uma edição em uma célula em uma planilha com o nome P�
 
 - Escolha a função que será executada `onEdit`
 
-- Escolha qual implantação deve ser executada `teste` (valor padrão)
+- Escolha qual implantação deve ser executada `teste`
 
 - Selecione a origem do evento `Da planilha`
 
