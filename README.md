@@ -16,10 +16,11 @@ Quando um usuário faz uma edição em uma célula em uma planilha com o nome P�
 
 - Em seguida, ele entrará em um loop, a partir da próxima linha abaixo da linha ativa, e repetirá o processo até encontrar uma linha em que os valores das colunas 1, 2 e 3 estejam todos vazios.
 
+##
 
 ### Criando o Evento
 
-#### Navegue até Acionadores 
+#### Navegue até `Acionadores` 
 
 ##### Clique em `Crie um novo acionador` 
 
@@ -33,5 +34,6 @@ Quando um usuário faz uma edição em uma célula em uma planilha com o nome P�
 
 - Clique em `Salvar`
 
+##
 
 Espero que isso ajude a esclarecer o propósito do código!
